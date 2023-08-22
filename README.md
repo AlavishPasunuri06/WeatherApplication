@@ -1,3 +1,4 @@
+![Image Alt Text](https://github.com/AlavishPasunuri06/WeatherApplication/blob/main/WeatherApp%20Image.jpg)
 # WeatherApplication - Your Personal Weather Assistant
 
 Welcome to WeatherApplication, a user-friendly weather application that provides real-time weather information at your fingertips. With an intuitive interface and powerful features, WeatherApplication helps you stay informed about weather conditions in your area and beyond.
